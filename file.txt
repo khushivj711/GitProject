@@ -1,5 +1,6 @@
 Hello! THis is file.txt 
 and newely content are added here.
 
+<<<<<<< HEAD
 latest content is added here 
 
