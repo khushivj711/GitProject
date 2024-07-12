@@ -1,0 +1,3 @@
+Hello! THis is file.txt 
+and newely content are added here.
+
